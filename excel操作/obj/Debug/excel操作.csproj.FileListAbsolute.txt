@@ -1,0 +1,15 @@
+E:\ASP.NET教学\excel操作\excel操作\bin\excel操作.dll.config
+E:\ASP.NET教学\excel操作\excel操作\bin\excel操作.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\excel操作.pdb
+E:\ASP.NET教学\excel操作\excel操作\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET教学\excel操作\excel操作\obj\Debug\excel操作.csprojResolveAssemblyReference.cache
+E:\ASP.NET教学\excel操作\excel操作\obj\Debug\excel操作.csproj.CoreCompileInputs.cache
+E:\ASP.NET教学\excel操作\excel操作\obj\Debug\excel操作.dll
+E:\ASP.NET教学\excel操作\excel操作\obj\Debug\excel操作.pdb
+E:\ASP.NET教学\excel操作\excel操作\bin\ICSharpCode.SharpZipLib.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\NPOI.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\NPOI.OOXML.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\NPOI.OpenXml4Net.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\NPOI.OpenXmlFormats.dll
+E:\ASP.NET教学\excel操作\excel操作\bin\NPOI.xml
